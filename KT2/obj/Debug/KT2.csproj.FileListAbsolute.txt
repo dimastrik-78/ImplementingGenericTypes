@@ -1,0 +1,7 @@
+C:\zWork\C#\KT2\KT2\bin\Debug\KT2.exe
+C:\zWork\C#\KT2\KT2\bin\Debug\KT2.pdb
+C:\zWork\C#\KT2\KT2\obj\Debug\KT2.csproj.AssemblyReference.cache
+C:\zWork\C#\KT2\KT2\obj\Debug\KT2.csproj.SuggestedBindingRedirects.cache
+C:\zWork\C#\KT2\KT2\obj\Debug\KT2.csproj.CoreCompileInputs.cache
+C:\zWork\C#\KT2\KT2\obj\Debug\KT2.exe
+C:\zWork\C#\KT2\KT2\obj\Debug\KT2.pdb
